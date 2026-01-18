@@ -1,0 +1,65 @@
+[
+  {
+    "Name": "Крутая книга",
+    "Author": "Геннадий Васильев",
+    "Year": 2011,
+    "Genre": "Фантастика",
+    "Page": 98,
+    "IsAvailaible": true,
+    "IsRead": false
+  },
+  {
+    "Name": "Грустная повесть",
+    "Author": "Артем Петров",
+    "Year": 1978,
+    "Genre": "Романтика",
+    "Page": 456,
+    "IsAvailaible": true,
+    "IsRead": false
+  },
+  {
+    "Name": "Шерлок Холмс",
+    "Author": "Грек Брамс",
+    "Year": 1989,
+    "Genre": "Детектив",
+    "Page": 678,
+    "IsAvailaible": true,
+    "IsRead": false
+  },
+  {
+    "Name": "Мастер и Маргарита",
+    "Author": "Михаил Булгаков",
+    "Year": 1966,
+    "Genre": "Роман",
+    "Page": 480,
+    "IsAvailaible": true,
+    "IsRead": false
+  },
+  {
+    "Name": "1984",
+    "Author": "Джордж Оруэлл",
+    "Year": 1949,
+    "Genre": "Антиутопия",
+    "Page": 320,
+    "IsAvailaible": true,
+    "IsRead": false
+  },
+  {
+    "Name": "Война и мир",
+    "Author": "Лев Толстой",
+    "Year": 1869,
+    "Genre": "Роман-эпопея",
+    "Page": 1225,
+    "IsAvailaible": true,
+    "IsRead": false
+  },
+  {
+    "Name": "Гарри Поттер и философский камень",
+    "Author": "Джоан Роулинг",
+    "Year": 1997,
+    "Genre": "Фэнтези",
+    "Page": 320,
+    "IsAvailaible": true,
+    "IsRead": false
+  }
+]
