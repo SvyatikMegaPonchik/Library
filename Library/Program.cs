@@ -5,10 +5,9 @@ using System.Text.Json;
 
 public class Program
 {
-    public static string usersFilePathTop = "C:\\Users\\User\\Desktop\\Library\\users.json";
-    public static string usersFilePathHome = "C:\\Users\\svyat\\Desktop\\Дз по top\\LibraryProgram\\users.json";
-    public static string usersFilePathTrue = usersFilePathTop;
-    public static string libraryFilePath = "C:\\Users\\User\\Desktop\\Library\\library.json";
+    public static string baseDirectory = AppDomain.CurrentDomain.BaseDirectory;
+    public static string usersFilePathTrue = Path.Combine(baseDirectory, "users.json");
+    public static string libraryFilePath = "library.json";
     public static User currentUser = null;
     public static List<User> users = new List<User>();
     public static List<Books> listbooks = new List<Books>();
